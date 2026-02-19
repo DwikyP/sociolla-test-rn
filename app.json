@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e655e401-231f-4b6d-96d9-9fdc3d919fb4"
+      }
+    },
+    "owner": "dwikyputra13"
   }
 }
