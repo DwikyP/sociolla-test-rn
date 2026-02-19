@@ -6,7 +6,6 @@ Quick setup for the React Native (Expo) demo app.
 
 - Node.js (16+ recommended)
 - npm or yarn
-- Expo CLI (optional, but helpful): `npm install -g expo-cli`
 
 ## Install dependencies
 
